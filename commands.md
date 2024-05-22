@@ -1,2 +1,1 @@
-* 1.``` date ```
-#### displays the current time and date.
+*``` date ```  - displays the current time and date.
